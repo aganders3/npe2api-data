@@ -2665,14 +2665,6 @@
         "0.0.1"
       ]
     },
-    "napari-dab-cellcount": {
-      "name": "napari-dab-cellcount",
-      "pypi_versions": [
-        "0.1.4",
-        "0.1.3",
-        "0.1.2"
-      ]
-    },
     "napari-data-inspection": {
       "name": "napari-data-inspection",
       "pypi_versions": [
