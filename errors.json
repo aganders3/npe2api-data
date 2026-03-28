@@ -47,6 +47,10 @@
     "version": "0.1.0b1.post1",
     "error": "1 validation error for PluginManifest\ncommands.0.enablement\n  Input should be a valid string [type=string_type, input_value=True, input_type=bool]\n    For further information visit https://errors.pydantic.dev/2.12/v/string_type"
   },
+  "napari-microparticle": {
+    "version": "0.1.0",
+    "error": "manifest 'napari.yaml' does not exist in distribution for napari-microparticle"
+  },
   "napari-mri": {
     "version": "0.1.0",
     "error": "Could not find 'napari_mri.nifty_reader' in in distribution for napari-mri"
