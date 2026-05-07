@@ -38,7 +38,7 @@
   "package_metadata": {
     "metadata_version": "2.4",
     "name": "nellie",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "dynamic": [
       "license-file"
     ],
@@ -68,6 +68,7 @@
       "matplotlib",
       "napari[all]",
       "imagecodecs",
+      "packaging",
       "mkdocs; extra == \"docs\"",
       "mkdocs-material; extra == \"docs\"",
       "mkdocstrings[python]; extra == \"docs\""
