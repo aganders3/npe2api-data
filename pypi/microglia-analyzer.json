@@ -52,7 +52,7 @@
     "provides_extra": [
       "testing"
     ],
-    "release_url": "https://pypi.org/project/microglia-analyzer/2.1.0/",
+    "release_url": "https://pypi.org/project/microglia-analyzer/2.1.1/",
     "requires_dist": [
       "numpy",
       "qtpy",
@@ -78,11 +78,11 @@
     ],
     "requires_python": ">=3.9",
     "summary": "A Napari plugin allowing to detect and segment microglia on fluorescent images.",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "yanked": false,
     "yanked_reason": null
   },
-  "last_serial": 36937684,
+  "last_serial": 36937976,
   "ownership": {
     "organization": null,
     "roles": [
@@ -136,48 +136,92 @@
         "yanked": false,
         "yanked_reason": null
       }
+    ],
+    "2.1.1": [
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "1edce663f33d9e518a986ad099df7c6ef03280b834bcd3f9ae6f693bb4199777",
+          "md5": "28b9e54c12885ee191bef845a8e85816",
+          "sha256": "48e37618d72077ffac237377d8d50d54e0b99d942e11b83368e189d683bfa304"
+        },
+        "downloads": -1,
+        "filename": "microglia_analyzer-2.1.1-py3-none-any.whl",
+        "has_sig": false,
+        "md5_digest": "28b9e54c12885ee191bef845a8e85816",
+        "packagetype": "bdist_wheel",
+        "python_version": "py3",
+        "requires_python": ">=3.9",
+        "size": 95343,
+        "upload_time": "2026-05-11T09:23:51",
+        "upload_time_iso_8601": "2026-05-11T09:23:51.163438Z",
+        "url": "https://files.pythonhosted.org/packages/1e/dc/e663f33d9e518a986ad099df7c6ef03280b834bcd3f9ae6f693bb4199777/microglia_analyzer-2.1.1-py3-none-any.whl",
+        "yanked": false,
+        "yanked_reason": null
+      },
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "032f6952321bc16e297b39e7c84514faef407fbb1206b37024f06b440fcca2fa",
+          "md5": "c925db8cdbe7a39463ddf2ef8b617bd6",
+          "sha256": "76818af85fb71feb7db9c4281f17f6e0e8ede13615ecebef98a4c9b616952137"
+        },
+        "downloads": -1,
+        "filename": "microglia_analyzer-2.1.1.tar.gz",
+        "has_sig": false,
+        "md5_digest": "c925db8cdbe7a39463ddf2ef8b617bd6",
+        "packagetype": "sdist",
+        "python_version": "source",
+        "requires_python": ">=3.9",
+        "size": 84873,
+        "upload_time": "2026-05-11T09:23:52",
+        "upload_time_iso_8601": "2026-05-11T09:23:52.624707Z",
+        "url": "https://files.pythonhosted.org/packages/03/2f/6952321bc16e297b39e7c84514faef407fbb1206b37024f06b440fcca2fa/microglia_analyzer-2.1.1.tar.gz",
+        "yanked": false,
+        "yanked_reason": null
+      }
     ]
   },
   "urls": [
     {
       "comment_text": null,
       "digests": {
-        "blake2b_256": "55253f94bd28195403b6fe33b382dac6595e3d873a3f73d5d9ab7c81bed82fb6",
-        "md5": "8a24590ec95d69281366c469c2e64e81",
-        "sha256": "5d3bb293b19ff06ded94c58a7ffb6e7a55052eef427d8048645731d9dbeff151"
+        "blake2b_256": "1edce663f33d9e518a986ad099df7c6ef03280b834bcd3f9ae6f693bb4199777",
+        "md5": "28b9e54c12885ee191bef845a8e85816",
+        "sha256": "48e37618d72077ffac237377d8d50d54e0b99d942e11b83368e189d683bfa304"
       },
       "downloads": -1,
-      "filename": "microglia_analyzer-2.1.0-py3-none-any.whl",
+      "filename": "microglia_analyzer-2.1.1-py3-none-any.whl",
       "has_sig": false,
-      "md5_digest": "8a24590ec95d69281366c469c2e64e81",
+      "md5_digest": "28b9e54c12885ee191bef845a8e85816",
       "packagetype": "bdist_wheel",
       "python_version": "py3",
       "requires_python": ">=3.9",
-      "size": 96670,
-      "upload_time": "2026-05-11T09:08:00",
-      "upload_time_iso_8601": "2026-05-11T09:08:00.323493Z",
-      "url": "https://files.pythonhosted.org/packages/55/25/3f94bd28195403b6fe33b382dac6595e3d873a3f73d5d9ab7c81bed82fb6/microglia_analyzer-2.1.0-py3-none-any.whl",
+      "size": 95343,
+      "upload_time": "2026-05-11T09:23:51",
+      "upload_time_iso_8601": "2026-05-11T09:23:51.163438Z",
+      "url": "https://files.pythonhosted.org/packages/1e/dc/e663f33d9e518a986ad099df7c6ef03280b834bcd3f9ae6f693bb4199777/microglia_analyzer-2.1.1-py3-none-any.whl",
       "yanked": false,
       "yanked_reason": null
     },
     {
       "comment_text": null,
       "digests": {
-        "blake2b_256": "1f8fea7ac3268ded5791d1e4e63a308199df573a176ba568585d5741d7d7e956",
-        "md5": "0297428d79f6b5284d21fc3661de275c",
-        "sha256": "19caee0656ebca9ab6b93a7d39834d936cb83eccb5f93366f46daf251d371599"
+        "blake2b_256": "032f6952321bc16e297b39e7c84514faef407fbb1206b37024f06b440fcca2fa",
+        "md5": "c925db8cdbe7a39463ddf2ef8b617bd6",
+        "sha256": "76818af85fb71feb7db9c4281f17f6e0e8ede13615ecebef98a4c9b616952137"
       },
       "downloads": -1,
-      "filename": "microglia_analyzer-2.1.0.tar.gz",
+      "filename": "microglia_analyzer-2.1.1.tar.gz",
       "has_sig": false,
-      "md5_digest": "0297428d79f6b5284d21fc3661de275c",
+      "md5_digest": "c925db8cdbe7a39463ddf2ef8b617bd6",
       "packagetype": "sdist",
       "python_version": "source",
       "requires_python": ">=3.9",
-      "size": 86097,
-      "upload_time": "2026-05-11T09:08:02",
-      "upload_time_iso_8601": "2026-05-11T09:08:02.233256Z",
-      "url": "https://files.pythonhosted.org/packages/1f/8f/ea7ac3268ded5791d1e4e63a308199df573a176ba568585d5741d7d7e956/microglia_analyzer-2.1.0.tar.gz",
+      "size": 84873,
+      "upload_time": "2026-05-11T09:23:52",
+      "upload_time_iso_8601": "2026-05-11T09:23:52.624707Z",
+      "url": "https://files.pythonhosted.org/packages/03/2f/6952321bc16e297b39e7c84514faef407fbb1206b37024f06b440fcca2fa/microglia_analyzer-2.1.1.tar.gz",
       "yanked": false,
       "yanked_reason": null
     }

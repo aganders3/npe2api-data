@@ -2281,7 +2281,7 @@
   {
     "normalized_name": "microglia-analyzer",
     "name": "microglia-analyzer",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "display_name": "Microglia Analyzer",
     "summary": "A Napari plugin allowing to detect and segment microglia on fluorescent images.",
     "author": null,
@@ -2294,6 +2294,7 @@
       "User Support, https://github.com/MontpellierRessourcesImagerie/microglia-analyzer/issues"
     ],
     "pypi_versions": [
+      "2.1.1",
       "2.1.0"
     ],
     "conda_versions": []
@@ -13041,7 +13042,7 @@
   {
     "normalized_name": "napari-spam",
     "name": "napari-spam",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "display_name": "Spam",
     "summary": "A simple plugin to load results from Spam in Napari",
     "author": "Jules Vanaret",
@@ -13049,6 +13050,8 @@
     "home_page": null,
     "project_url": null,
     "pypi_versions": [
+      "0.0.5",
+      "0.0.4",
       "0.0.3",
       "0.0.2",
       "0.0.1"
