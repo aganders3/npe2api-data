@@ -13306,7 +13306,7 @@
   {
     "normalized_name": "napari-spofi",
     "name": "napari-spofi",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "display_name": "Spot Finder",
     "summary": "napari plugin to interactively train and test a StarDist model",
     "author": "Christian Schulze",
@@ -13319,6 +13319,7 @@
       "User Support, https://github.com/drchrisch/napari-spofi/issues"
     ],
     "pypi_versions": [
+      "0.0.4",
       "0.0.1",
       "0.0.1a2"
     ],
@@ -15767,7 +15768,7 @@
   {
     "normalized_name": "organelle-segmenter-plugin",
     "name": "organelle-segmenter-plugin",
-    "version": "0.0.9",
+    "version": "0.0.11",
     "display_name": "Infer sub-Cellular Object Npe2 plugin",
     "summary": "A plugin that enables organelle segmentation, forked from tools from Allen Institute for Cell Science",
     "author": "Shannon Rhoads",
@@ -15780,6 +15781,8 @@
       "User Support, https://github.com/SCohenLab/organelle-segmenter-plugin/issues"
     ],
     "pypi_versions": [
+      "0.0.11",
+      "0.0.10",
       "0.0.9",
       "0.0.6",
       "0.0.5",
