@@ -2,7 +2,7 @@
   "name": "napari-points2regions",
   "display_name": "Points2Regions",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

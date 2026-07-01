@@ -2,7 +2,7 @@
   "name": "napari-skimage",
   "display_name": "napari skimage",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Image Processing",
     "Segmentation"

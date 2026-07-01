@@ -2,7 +2,7 @@
   "name": "napari-open-ctc",
   "display_name": "Open CTC data",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Visualization"
   ],

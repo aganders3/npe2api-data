@@ -2,7 +2,7 @@
   "name": "napari-yapic-prediction",
   "display_name": "napari-yapic-prediction",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

@@ -2,7 +2,7 @@
   "name": "napari-grid-cropping",
   "display_name": "Grid cropping napari plugin",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

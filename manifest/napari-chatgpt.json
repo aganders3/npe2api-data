@@ -2,7 +2,7 @@
   "name": "napari-chatgpt",
   "display_name": "napari-chatgpt | Omega",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Image Processing",
     "Segmentation",

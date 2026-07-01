@@ -2,7 +2,7 @@
   "name": "napari-locan",
   "display_name": "napari-locan",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

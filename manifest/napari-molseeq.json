@@ -2,7 +2,7 @@
   "name": "napari-molseeq",
   "display_name": "molSEEQ",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

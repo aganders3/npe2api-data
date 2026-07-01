@@ -2,7 +2,7 @@
   "name": "napari-cryofibsem-imgproc",
   "display_name": "Cryo-FIB/SEM Image Stacks Post-Processing",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

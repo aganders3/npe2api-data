@@ -2,7 +2,7 @@
   "name": "cochlea-synapseg",
   "display_name": "Cochlea SynapSeg",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

@@ -2,7 +2,7 @@
   "name": "napari-nD-annotator",
   "display_name": "Annotation Toolbox",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,
@@ -66,7 +66,7 @@
   "package_metadata": {
     "metadata_version": "2.4",
     "name": "napari-nD-annotator",
-    "version": "0.3.3",
+    "version": "0.3.4",
     "dynamic": [
       "license-file"
     ],

@@ -2,7 +2,7 @@
   "name": "napari-himena",
   "display_name": "Himena",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

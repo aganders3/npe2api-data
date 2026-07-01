@@ -2,7 +2,7 @@
   "name": "cellcanvas",
   "display_name": "cellcanvas",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

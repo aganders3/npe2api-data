@@ -2,7 +2,7 @@
   "name": "zarpaint",
   "display_name": "zarpaint",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.0",
   "on_activate": null,

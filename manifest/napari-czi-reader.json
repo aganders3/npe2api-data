@@ -2,7 +2,7 @@
   "name": "napari-czi-reader",
   "display_name": "napari-czi-reader",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.0",
   "on_activate": null,

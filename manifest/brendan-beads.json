@@ -2,7 +2,7 @@
   "name": "brendan-beads",
   "display_name": "Brendan Beads",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

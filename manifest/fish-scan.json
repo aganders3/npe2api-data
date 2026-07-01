@@ -2,7 +2,7 @@
   "name": "fish-scan",
   "display_name": "Fish Scan",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Image Processing",
     "Segmentation",

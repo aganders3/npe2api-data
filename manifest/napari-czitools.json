@@ -2,7 +2,7 @@
   "name": "napari-czitools",
   "display_name": "CziReadTools",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "IO"
   ],

@@ -2,7 +2,7 @@
   "name": "napari-vedo-bridge",
   "display_name": "napari vedo bridge",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

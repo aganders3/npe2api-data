@@ -2,7 +2,7 @@
   "name": "napari-swc-editor",
   "display_name": "napari-swc-editor",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

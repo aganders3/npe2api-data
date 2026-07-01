@@ -2,7 +2,7 @@
   "name": "LSFM_destripe_napari",
   "display_name": "Leonardo-DeStripe",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Visualization",
     "Image Processing"

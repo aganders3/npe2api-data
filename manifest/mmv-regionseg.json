@@ -2,7 +2,7 @@
   "name": "mmv-regionseg",
   "display_name": "MMV-RegionSeg",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Segmentation",
     "Image Processing"

@@ -2,7 +2,7 @@
   "name": "napari-pyav",
   "display_name": "AV plugin",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

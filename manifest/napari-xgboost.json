@@ -2,7 +2,7 @@
   "name": "napari-xgboost",
   "display_name": "Pixel Classification XGBoost",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Segmentation"
   ],

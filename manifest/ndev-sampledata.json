@@ -2,7 +2,7 @@
   "name": "ndev-sampledata",
   "display_name": "ndev Sampledata",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Dataset"
   ],

@@ -2,7 +2,7 @@
   "name": "napari-segselect",
   "display_name": "SegSelect",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation"
   ],

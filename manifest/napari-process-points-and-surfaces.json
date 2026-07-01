@@ -2,7 +2,7 @@
   "name": "napari-process-points-and-surfaces",
   "display_name": "napari-process-points-and-surfaces",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

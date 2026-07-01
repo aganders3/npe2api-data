@@ -2,7 +2,7 @@
   "name": "quantpunc",
   "display_name": "QuantPunc",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Image Processing",

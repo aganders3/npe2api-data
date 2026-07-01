@@ -2,7 +2,7 @@
   "name": "napari-segment-anything-2",
   "display_name": "Segment Anything 2",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Segmentation"
   ],

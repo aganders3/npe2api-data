@@ -2,7 +2,7 @@
   "name": "napari-k2-WaveBreaker",
   "display_name": "K2 Wave Breaker",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

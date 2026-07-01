@@ -2,7 +2,7 @@
   "name": "napari-sairyscan",
   "display_name": "napari sairyscan",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

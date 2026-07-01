@@ -2,7 +2,7 @@
   "name": "cellpose-counter",
   "display_name": "CellPose Counter",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

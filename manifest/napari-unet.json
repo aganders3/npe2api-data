@@ -2,7 +2,7 @@
   "name": "napari-unet",
   "display_name": "Napari UNet",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

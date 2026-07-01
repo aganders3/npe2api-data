@@ -2,7 +2,7 @@
   "name": "napari-data-preview",
   "display_name": "napari-data-preview",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.0.3-alpha",
   "on_activate": null,

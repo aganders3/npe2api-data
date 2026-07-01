@@ -2,7 +2,7 @@
   "name": "napari-mask-density",
   "display_name": "Mask Analyzer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

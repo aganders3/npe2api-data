@@ -2,7 +2,7 @@
   "name": "napari-label-manager",
   "display_name": "Label Manager",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

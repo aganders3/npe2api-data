@@ -2,7 +2,7 @@
   "name": "napari-camera",
   "display_name": "Camera Control",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

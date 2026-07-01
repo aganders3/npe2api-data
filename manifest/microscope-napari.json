@@ -2,7 +2,7 @@
   "name": "microscope-napari",
   "display_name": "microscope-napari",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

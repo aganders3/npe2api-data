@@ -2,7 +2,7 @@
   "name": "napari-psfgenerator",
   "display_name": "PSF Generator",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Simulation"
   ],

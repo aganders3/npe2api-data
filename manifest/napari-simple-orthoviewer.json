@@ -2,7 +2,7 @@
   "name": "napari-simple-orthoviewer",
   "display_name": "Orthogonal Viewer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities",
     "Visualization"

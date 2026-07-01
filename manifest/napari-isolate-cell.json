@@ -2,7 +2,7 @@
   "name": "napari-isolate-cell",
   "display_name": "Isolate Cell from Segmentation",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Segmentation",
     "Annotation",

@@ -2,7 +2,7 @@
   "name": "mobiofox",
   "display_name": "MOBIOFOX",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Segmentation",
     "Measurement",

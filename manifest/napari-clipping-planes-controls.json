@@ -2,7 +2,7 @@
   "name": "napari-clipping-planes-controls",
   "display_name": "Clipping Planes Controls",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities",
     "Visualization"

@@ -2,7 +2,7 @@
   "name": "napari-annotate",
   "display_name": "napari-annotate",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

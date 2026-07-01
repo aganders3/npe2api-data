@@ -2,7 +2,7 @@
   "name": "microglia-analyzer",
   "display_name": "Microglia Analyzer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

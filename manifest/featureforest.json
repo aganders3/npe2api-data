@@ -2,7 +2,7 @@
   "name": "featureforest",
   "display_name": "Feature Forest",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

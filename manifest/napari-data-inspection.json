@@ -2,7 +2,7 @@
   "name": "napari-data-inspection",
   "display_name": "Data Inspection",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

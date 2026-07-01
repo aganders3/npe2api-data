@@ -2,7 +2,7 @@
   "name": "napari-bee-annotator",
   "display_name": "Bee annotator",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation"
   ],

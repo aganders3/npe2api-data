@@ -2,7 +2,7 @@
   "name": "napari-atlas-stitch",
   "display_name": "Atlas Stitch",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Image Processing",
     "Utilities"

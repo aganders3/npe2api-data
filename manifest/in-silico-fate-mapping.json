@@ -2,7 +2,7 @@
   "name": "in-silico-fate-mapping",
   "display_name": "In Silico Fate Mapping",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

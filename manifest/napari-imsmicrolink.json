@@ -2,7 +2,7 @@
   "name": "napari-imsmicrolink",
   "display_name": "napari-imsmicrolink",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

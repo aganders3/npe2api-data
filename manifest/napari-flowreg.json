@@ -2,7 +2,7 @@
   "name": "napari-flowreg",
   "display_name": "Flow-Registration Motion Correction and Analysis for 2P Imaging",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

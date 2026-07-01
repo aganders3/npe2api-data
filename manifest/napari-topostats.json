@@ -2,7 +2,7 @@
   "name": "napari-TopoStats",
   "display_name": "napari-topostats",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

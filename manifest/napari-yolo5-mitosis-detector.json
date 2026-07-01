@@ -2,7 +2,7 @@
   "name": "napari-yolo5-mitosis-detector",
   "display_name": "Yolo5 Mitosis Detector",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation"
   ],

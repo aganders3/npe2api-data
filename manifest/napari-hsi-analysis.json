@@ -2,7 +2,7 @@
   "name": "napari-hsi-analysis",
   "display_name": "Hyperspectral Imaging Analysis Plugin",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

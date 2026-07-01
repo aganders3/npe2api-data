@@ -2,7 +2,7 @@
   "name": "napari-roxas-ai",
   "display_name": "ROXAS AI",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

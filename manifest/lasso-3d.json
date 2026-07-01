@@ -2,7 +2,7 @@
   "name": "lasso-3d",
   "display_name": "Lasso",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

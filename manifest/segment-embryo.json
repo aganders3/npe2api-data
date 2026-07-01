@@ -2,7 +2,7 @@
   "name": "segment-embryo",
   "display_name": "Embryo Segmentation",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

@@ -2,7 +2,7 @@
   "name": "napari-cursor-tracker",
   "display_name": "Cursor tracker",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

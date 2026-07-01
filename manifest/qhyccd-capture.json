@@ -2,7 +2,7 @@
   "name": "qhyccd-capture",
   "display_name": "qhyccd-capture",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

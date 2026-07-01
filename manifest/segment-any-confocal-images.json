@@ -2,7 +2,7 @@
   "name": "segment-any-confocal-images",
   "display_name": "Segment Any Confocal Images",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

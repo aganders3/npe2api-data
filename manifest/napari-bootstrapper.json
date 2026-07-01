@@ -2,7 +2,7 @@
   "name": "napari-bootstrapper",
   "display_name": "Bootstrapper",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

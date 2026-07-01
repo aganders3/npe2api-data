@@ -2,7 +2,7 @@
   "name": "napari-samv2",
   "display_name": "napari-SAMV2",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

@@ -2,7 +2,7 @@
   "name": "napari-aicsimageio",
   "display_name": "napari-aicsimageio",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

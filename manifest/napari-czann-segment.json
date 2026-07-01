@@ -2,7 +2,7 @@
   "name": "napari-czann-segment",
   "display_name": "CZANN Segmentation and Processing",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

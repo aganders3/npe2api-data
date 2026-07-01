@@ -2,7 +2,7 @@
   "name": "napari-segmentation-overlap-filter",
   "display_name": "Segmentation Filter Overlap",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

@@ -2,7 +2,7 @@
   "name": "napari-rosettasciio",
   "display_name": "RosettaSciIO Reader/Writer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "IO"
   ],

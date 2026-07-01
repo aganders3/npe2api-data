@@ -2,7 +2,7 @@
   "name": "napari-roi-registration",
   "display_name": "Roi Registration",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

@@ -2,7 +2,7 @@
   "name": "napari-3d-label-eraser",
   "display_name": "3D Label Eraser",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

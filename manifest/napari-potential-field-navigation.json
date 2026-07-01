@@ -2,7 +2,7 @@
   "name": "napari-potential-field-navigation",
   "display_name": "Differentiable Potential Field Navigation",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

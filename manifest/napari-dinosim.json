@@ -2,7 +2,7 @@
   "name": "napari-dinosim",
   "display_name": "DINOSim Segmentation",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",
@@ -42,7 +42,7 @@
   "package_metadata": {
     "metadata_version": "2.4",
     "name": "napari-dinosim",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "dynamic": [
       "license-file"
     ],

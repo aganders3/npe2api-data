@@ -2,7 +2,7 @@
   "name": "napari-flim-phasor-plotter",
   "display_name": "FLIM phasor plotter",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

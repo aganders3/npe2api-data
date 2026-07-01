@@ -2,7 +2,7 @@
   "name": "appletree",
   "display_name": "Appletree",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

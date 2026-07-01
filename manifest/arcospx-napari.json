@@ -2,7 +2,7 @@
   "name": "arcosPx-napari",
   "display_name": "arcosPx",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Segmentation",
     "Image Processing"

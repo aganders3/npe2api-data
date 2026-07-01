@@ -2,7 +2,7 @@
   "name": "napari-voxtell",
   "display_name": "Voxtell",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

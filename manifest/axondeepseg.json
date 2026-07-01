@@ -2,7 +2,7 @@
   "name": "AxonDeepSeg",
   "display_name": "AxonDeepSeg",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

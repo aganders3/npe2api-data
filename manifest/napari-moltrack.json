@@ -2,7 +2,7 @@
   "name": "napari-moltrack",
   "display_name": "MolTrack",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

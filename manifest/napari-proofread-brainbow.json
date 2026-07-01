@@ -2,7 +2,7 @@
   "name": "napari-proofread-brainbow",
   "display_name": "Proofread Brainbow",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation"
   ],

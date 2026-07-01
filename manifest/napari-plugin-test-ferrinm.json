@@ -2,7 +2,7 @@
   "name": "napari-plugin-test-ferrinm",
   "display_name": "Plugin Test Ferrinm",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

@@ -2,7 +2,7 @@
   "name": "napari-hardware-monitor",
   "display_name": "Hardware Monitor",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

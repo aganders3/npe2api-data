@@ -2,7 +2,7 @@
   "name": "napari-geff",
   "display_name": "Geff IO",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

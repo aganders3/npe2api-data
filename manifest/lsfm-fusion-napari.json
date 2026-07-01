@@ -2,7 +2,7 @@
   "name": "LSFM-fusion-napari",
   "display_name": "Leonardo-Fuse",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Visualization",
     "Image Processing"

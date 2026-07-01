@@ -2,7 +2,7 @@
   "name": "napari-memmap-tiff",
   "display_name": "Loading tiffs using memory map",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

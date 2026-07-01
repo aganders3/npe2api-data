@@ -2,7 +2,7 @@
   "name": "napari-bil-data-viewer",
   "display_name": "napari-bil-data-viewer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

@@ -2,7 +2,7 @@
   "name": "napari-imagegrains",
   "display_name": "ImageGrains",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

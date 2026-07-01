@@ -2,7 +2,7 @@
   "name": "snouty-viewer",
   "display_name": "Snouty Viewer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

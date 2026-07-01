@@ -2,7 +2,7 @@
   "name": "napari-blender",
   "display_name": "Blender Visualization",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

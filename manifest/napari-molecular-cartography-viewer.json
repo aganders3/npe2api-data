@@ -2,7 +2,7 @@
   "name": "napari-molecular-cartography-viewer",
   "display_name": "Molecular Cartography Viewer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

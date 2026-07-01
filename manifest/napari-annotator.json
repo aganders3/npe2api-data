@@ -2,7 +2,7 @@
   "name": "napari-annotator",
   "display_name": "Annotator",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation"
   ],

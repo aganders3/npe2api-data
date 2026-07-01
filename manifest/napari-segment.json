@@ -2,7 +2,7 @@
   "name": "napari-segment",
   "display_name": "Segment organoid",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

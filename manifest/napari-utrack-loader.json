@@ -2,7 +2,7 @@
   "name": "napari-utrack-loader",
   "display_name": "Utrack Loader",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

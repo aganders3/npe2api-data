@@ -2,7 +2,7 @@
   "name": "motile-plugin",
   "display_name": "Motile",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

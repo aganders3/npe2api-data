@@ -2,7 +2,7 @@
   "name": "napari-biomag-annotator",
   "display_name": "BIOMAG Annotator",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

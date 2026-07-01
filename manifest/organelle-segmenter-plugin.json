@@ -2,7 +2,7 @@
   "name": "organelle-segmenter-plugin",
   "display_name": "Infer sub-Cellular Object Npe2 plugin",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

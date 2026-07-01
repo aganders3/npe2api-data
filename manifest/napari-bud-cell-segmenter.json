@@ -2,7 +2,7 @@
   "name": "napari-bud-cell-segmenter",
   "display_name": "Bud Cell Segmenter",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

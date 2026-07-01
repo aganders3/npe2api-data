@@ -2,7 +2,7 @@
   "name": "napari-filter-labels-by-prop",
   "display_name": "Filter labels by properties",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

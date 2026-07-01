@@ -2,7 +2,7 @@
   "name": "napari-curviewer",
   "display_name": "Curviewer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

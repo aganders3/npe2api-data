@@ -2,7 +2,7 @@
   "name": "napari-timelapse-processor",
   "display_name": "Timelapse Processor",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

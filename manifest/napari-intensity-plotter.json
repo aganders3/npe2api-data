@@ -2,7 +2,7 @@
   "name": "napari-intensity-plotter",
   "display_name": "Intensity Plotter",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

@@ -2,7 +2,7 @@
   "name": "napari-vector-graphics",
   "display_name": "Napari Vector Graphics",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities",
     "Visualization"

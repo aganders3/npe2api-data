@@ -2,7 +2,7 @@
   "name": "napari-PixSeq",
   "display_name": "PixSeq",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

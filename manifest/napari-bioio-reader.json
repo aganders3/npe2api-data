@@ -2,7 +2,7 @@
   "name": "napari-bioio-reader",
   "display_name": "Bioio Reader",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "IO"
   ],

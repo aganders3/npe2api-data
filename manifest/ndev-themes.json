@@ -2,7 +2,7 @@
   "name": "ndev-themes",
   "display_name": "ndev themes",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,
@@ -30,6 +30,7 @@
           "text": "#cdd8ce",
           "icon": "#caab6d",
           "warning": "#edb492",
+          "error": null,
           "current": "#826685"
         },
         "font_size": "9pt"

@@ -2,7 +2,7 @@
   "name": "napari-layer-divider",
   "display_name": "Layer Divider",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

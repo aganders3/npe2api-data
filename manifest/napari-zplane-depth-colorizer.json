@@ -2,7 +2,7 @@
   "name": "napari-zplane-depth-colorizer",
   "display_name": "napari-zplane-depth-colorizer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Visualization"

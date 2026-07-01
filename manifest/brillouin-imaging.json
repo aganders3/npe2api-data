@@ -2,7 +2,7 @@
   "name": "brillouin-imaging",
   "display_name": "Brillouin Imaging",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Visualization"
   ],

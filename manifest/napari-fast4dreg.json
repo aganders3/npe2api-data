@@ -2,7 +2,7 @@
   "name": "napari-fast4dreg",
   "display_name": "Fast4DReg",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

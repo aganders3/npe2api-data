@@ -2,7 +2,7 @@
   "name": "napari-ufish",
   "display_name": "U-FISH",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

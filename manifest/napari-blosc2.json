@@ -2,7 +2,7 @@
   "name": "napari-blosc2",
   "display_name": "Blosc2 Reader & Writer",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

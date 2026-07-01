@@ -2,7 +2,7 @@
   "name": "napam",
   "display_name": "NaPaM",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

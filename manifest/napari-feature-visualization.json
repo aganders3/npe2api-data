@@ -2,7 +2,7 @@
   "name": "napari-feature-visualization",
   "display_name": "Napari Feature Visualization",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation"
   ],

@@ -2,7 +2,7 @@
   "name": "cryocanvas",
   "display_name": "cryocanvas",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

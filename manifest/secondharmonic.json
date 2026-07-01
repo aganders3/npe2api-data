@@ -2,7 +2,7 @@
   "name": "secondharmonic",
   "display_name": "Analysis ultimate tool",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

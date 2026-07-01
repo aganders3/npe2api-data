@@ -2,7 +2,7 @@
   "name": "domb-napari",
   "display_name": "DoMB",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Image Processing",
     "Segmentation",

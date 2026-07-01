@@ -2,7 +2,7 @@
   "name": "napari-live-recording",
   "display_name": "napari-live-recording",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

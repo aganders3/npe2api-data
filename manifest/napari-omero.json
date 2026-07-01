@@ -2,7 +2,7 @@
   "name": "napari-omero",
   "display_name": "napari-omero",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

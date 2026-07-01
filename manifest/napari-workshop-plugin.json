@@ -2,7 +2,7 @@
   "name": "napari-workshop-plugin",
   "display_name": "Workshop 2023 demo plugin",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Dataset",
     "Image Processing"

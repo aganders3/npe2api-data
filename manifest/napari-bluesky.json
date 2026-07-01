@@ -2,7 +2,7 @@
   "name": "napari-bluesky",
   "display_name": "Bluesky",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

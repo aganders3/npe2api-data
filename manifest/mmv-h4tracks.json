@@ -2,7 +2,7 @@
   "name": "mmv_h4tracks",
   "display_name": "MMV_H4Tracks",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

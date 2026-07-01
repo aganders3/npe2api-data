@@ -2,7 +2,7 @@
   "name": "simple-napari-cci-annotator",
   "display_name": "CCI Annotator",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

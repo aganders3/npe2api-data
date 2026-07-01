@@ -2,7 +2,7 @@
   "name": "affinder",
   "display_name": "affinder",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Transformations"
   ],

@@ -2,7 +2,7 @@
   "name": "napari-swc-reader",
   "display_name": "napari-swc-reader",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "IO"
   ],

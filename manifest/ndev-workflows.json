@@ -2,7 +2,7 @@
   "name": "ndev-workflows",
   "display_name": "ndev Workflows",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

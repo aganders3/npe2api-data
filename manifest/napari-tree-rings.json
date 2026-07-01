@@ -2,7 +2,7 @@
   "name": "napari-tree-rings",
   "display_name": "Napari Tree Rings",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

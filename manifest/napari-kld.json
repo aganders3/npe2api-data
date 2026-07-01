@@ -2,7 +2,7 @@
   "name": "napari-kld",
   "display_name": "Kernel Learning Deconvolution",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Image Processing"
   ],

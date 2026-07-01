@@ -2,7 +2,7 @@
   "name": "napari-mass",
   "display_name": "Microscopy Array Section Setup",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

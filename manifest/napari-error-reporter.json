@@ -2,7 +2,7 @@
   "name": "napari-error-reporter",
   "display_name": "Napari Error Reporter",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

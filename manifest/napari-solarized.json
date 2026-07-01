@@ -2,7 +2,7 @@
   "name": "napari-solarized",
   "display_name": "Napari Solarized",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,
@@ -30,6 +30,7 @@
           "text": "#93a1a1",
           "icon": "#93a1a1",
           "warning": "#dc322f",
+          "error": null,
           "current": "#1f74c4"
         },
         "font_size": "9pt"
@@ -50,6 +51,7 @@
           "text": "#586e75",
           "icon": "#586e75",
           "warning": "#dc322f",
+          "error": null,
           "current": "#dfca88"
         },
         "font_size": "9pt"

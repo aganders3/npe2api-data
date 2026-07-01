@@ -2,7 +2,7 @@
   "name": "napari-roi-manager",
   "display_name": "ROI Manager",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation"
   ],

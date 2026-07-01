@@ -2,7 +2,7 @@
   "name": "napari-ctc-io",
   "display_name": "Read CTC format",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Visualization",
     "Utilities"

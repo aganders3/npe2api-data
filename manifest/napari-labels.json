@@ -2,7 +2,7 @@
   "name": "napari-labels",
   "display_name": "Labels Control",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

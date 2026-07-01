@@ -2,7 +2,7 @@
   "name": "MMV-playground",
   "display_name": "MMV-playground",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

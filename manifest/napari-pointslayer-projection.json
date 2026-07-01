@@ -2,7 +2,7 @@
   "name": "napari-pointslayer-projection",
   "display_name": "Projection of Points layers",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

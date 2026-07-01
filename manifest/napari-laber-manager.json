@@ -2,7 +2,7 @@
   "name": "napari-laber-manager",
   "display_name": "Laber Manager",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

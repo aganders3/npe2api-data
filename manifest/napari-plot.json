@@ -2,7 +2,7 @@
   "name": "napari_plot",
   "display_name": "napari_plot",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.1",
   "on_activate": null,

@@ -2,7 +2,7 @@
   "name": "napari-cilia-assistant",
   "display_name": "Cilia Assistant",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Utilities"
   ],

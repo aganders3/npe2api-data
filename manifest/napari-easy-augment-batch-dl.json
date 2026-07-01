@@ -2,7 +2,7 @@
   "name": "napari-easy-augment-batch-dl",
   "display_name": "Easy Augment Batch DL",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"

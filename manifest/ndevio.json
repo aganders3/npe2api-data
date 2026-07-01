@@ -2,7 +2,7 @@
   "name": "ndevio",
   "display_name": "ndevio",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "IO",
     "Dataset",

@@ -2,7 +2,7 @@
   "name": "napari-skimage-regionprops",
   "display_name": "napari-skimage-regionprops",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

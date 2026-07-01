@@ -2,7 +2,7 @@
   "name": "frontveg",
   "display_name": "Frontveg",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

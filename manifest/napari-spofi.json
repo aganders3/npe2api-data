@@ -2,7 +2,7 @@
   "name": "napari-spofi",
   "display_name": "Spot Finder",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

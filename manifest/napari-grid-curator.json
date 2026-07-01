@@ -2,7 +2,7 @@
   "name": "napari-grid-curator",
   "display_name": "Grid Curator",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

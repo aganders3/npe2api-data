@@ -2,7 +2,7 @@
   "name": "napari-epyseg",
   "display_name": "Napari-EpySeg",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Segmentation"
   ],

@@ -2,7 +2,7 @@
   "name": "napari-image-stacker",
   "display_name": "napari-image-stacker",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,

@@ -2,7 +2,7 @@
   "name": "napari-gruvbox",
   "display_name": "napari Gruvbox",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.1",
   "on_activate": null,
@@ -30,6 +30,7 @@
           "text": "#ebdbb2",
           "icon": "#ebdbb2",
           "warning": "#fb4934",
+          "error": null,
           "current": "#7c6f64"
         },
         "font_size": "9pt"
@@ -50,6 +51,7 @@
           "text": "#3c3836",
           "icon": "#3c3836",
           "warning": "#9d0006",
+          "error": null,
           "current": "#a89984"
         },
         "font_size": "9pt"

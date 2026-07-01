@@ -2,7 +2,7 @@
   "name": "napari-cryofibsem-monitor",
   "display_name": "napari-cryofibsem-monitor",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

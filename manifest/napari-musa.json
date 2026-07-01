@@ -2,7 +2,7 @@
   "name": "napari-musa",
   "display_name": "MUSA Plugin",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

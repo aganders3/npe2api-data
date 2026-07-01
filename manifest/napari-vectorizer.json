@@ -2,7 +2,7 @@
   "name": "napari-vectorizer",
   "display_name": "Labels Vectorization",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation",

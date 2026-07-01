@@ -2,7 +2,7 @@
   "name": "napari-ndtiffs",
   "display_name": "napari-ndtiffs",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.2.0",
   "on_activate": null,

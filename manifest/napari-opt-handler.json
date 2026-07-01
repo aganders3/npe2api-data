@@ -2,7 +2,7 @@
   "name": "napari-opt-handler",
   "display_name": "OPT Preprocessing",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Image Processing",
     "Transformations"

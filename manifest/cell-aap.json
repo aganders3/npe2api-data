@@ -2,7 +2,7 @@
   "name": "cell-AAP",
   "display_name": "cell-AAP",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [],
   "schema_version": "0.1.0",
   "on_activate": null,

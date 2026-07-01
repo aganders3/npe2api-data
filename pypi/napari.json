@@ -71,6 +71,7 @@
       "optional-numba",
       "optional",
       "bermuda",
+      "triangle",
       "partsegcore",
       "all-optional",
       "testing",
@@ -81,9 +82,8 @@
       "dev",
       "build"
     ],
-    "release_url": "https://pypi.org/project/napari/0.7.0/",
+    "release_url": "https://pypi.org/project/napari/0.7.1/",
     "requires_dist": [
-      "appdirs>=1.4.4",
       "app-model<0.6.0,>=0.5.0",
       "cachey>=0.2.1",
       "certifi>=2018.1.18",
@@ -100,6 +100,7 @@
       "pandas>=1.3.3",
       "Pillow>=10.0",
       "pint>=0.17",
+      "platformdirs>=4.3.0",
       "psutil>=5.9.0",
       "psygnal>=0.14.2",
       "pydantic>=2.8.0",
@@ -117,11 +118,12 @@
       "toolz>=0.11.0",
       "tqdm>=4.56.0",
       "typing_extensions>=4.12",
-      "vispy<0.17,>=0.16.1",
+      "vispy<0.17,>=0.16.2",
       "wrapt>=1.13.3",
-      "PySide6>6.7; extra == \"pyside6\"",
+      "PySide6!=6.11.0,!=6.11.1,>6.7; extra == \"pyside6\"",
       "PyQt6>6.5; extra == \"pyqt6\"",
       "PyQt6!=6.6.1; platform_system == \"Darwin\" and extra == \"pyqt6\"",
+      "pyqt6-qt6!=6.11.0,!=6.11.1; extra == \"pyqt6\"",
       "napari[pyside6]; extra == \"pyside\"",
       "PyQt5>=5.15.8; extra == \"pyqt5\"",
       "pyqt5-qt5<=5.15.2; sys_platform == \"Windows\" and extra == \"pyqt5\"",
@@ -135,8 +137,8 @@
       "numba<=0.62.1,>=0.57.1; (platform_system == \"Darwin\" and platform_machine == \"x86_64\") and extra == \"optional-numba\"",
       "numba>=0.57.1; (platform_system != \"Darwin\" or platform_machine != \"x86_64\") and extra == \"optional-numba\"",
       "napari[bermuda,optional-base,optional-numba]; extra == \"optional\"",
-      "triangle; python_version <= \"3.13\" and extra == \"optional\"",
       "bermuda>=0.1.5; extra == \"bermuda\"",
+      "triangle; python_version <= \"3.13\" and extra == \"triangle\"",
       "PartSegCore-compiled-backend>=0.15.11; extra == \"partsegcore\"",
       "napari[optional,partsegcore]; extra == \"all-optional\"",
       "babel>=2.9.0; extra == \"testing\"",
@@ -160,7 +162,7 @@
       "IPython>=7.25.0; extra == \"testing\"",
       "qtconsole>=4.5.1; extra == \"testing\"",
       "rich>=12.0.0; extra == \"testing\"",
-      "napari[optional-base]; extra == \"testing\"",
+      "napari[bermuda,optional-base]; extra == \"testing\"",
       "torch>=1.10.2; extra == \"testing-extra\"",
       "glasbey; extra == \"gallery\"",
       "zarr; extra == \"gallery\"",
@@ -179,7 +181,7 @@
       "napari-skimage; extra == \"docs\"",
       "ndevio; extra == \"docs\"",
       "numpydoc>=1.0.0; extra == \"docs\"",
-      "sphinx<8; extra == \"docs\"",
+      "sphinx>=8; extra == \"docs\"",
       "sphinx-autobuild; extra == \"docs\"",
       "sphinx-tabs; extra == \"docs\"",
       "sphinx-tags; extra == \"docs\"",
@@ -193,13 +195,13 @@
       "sphinxext-opengraph[social-cards]; extra == \"docs\"",
       "sphinxext-rediraffe; extra == \"docs\"",
       "myst-nb; extra == \"docs\"",
-      "napari-sphinx-theme>=1.0.0; extra == \"docs\"",
+      "napari-sphinx-theme>=1.1.3; extra == \"docs\"",
       "matplotlib; extra == \"docs\"",
       "lxml[html_clean]>5; extra == \"docs\"",
       "imageio-ffmpeg; extra == \"docs\"",
       "pydeps; extra == \"docs\"",
       "seedir; extra == \"docs\"",
-      "triangle; extra == \"docs\"",
+      "triangle; python_version <= \"3.13\" and extra == \"docs\"",
       "bermuda>=0.1.4; extra == \"docs\"",
       "pytest; extra == \"docs\"",
       "linkify-it-py; extra == \"docs\"",
@@ -220,11 +222,11 @@
     ],
     "requires_python": ">=3.10",
     "summary": "n-dimensional array viewer in Python",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "yanked": false,
     "yanked_reason": null
   },
-  "last_serial": 36855522,
+  "last_serial": 38074226,
   "ownership": {
     "organization": null,
     "roles": [
@@ -9871,6 +9873,50 @@
         "yanked_reason": null
       }
     ],
+    "0.7.1": [
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "baad4a411b8d5d440150f2f8db6bd5ba50320e55326fbddfefe691504050bd7e",
+          "md5": "6b38d1f125a769d90301c0388241be46",
+          "sha256": "c03090fa45f2b62f9d7d7acd1696c020d8b72abba6b036dbb0b6a80d9fc4bee0"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1-py3-none-any.whl",
+        "has_sig": false,
+        "md5_digest": "6b38d1f125a769d90301c0388241be46",
+        "packagetype": "bdist_wheel",
+        "python_version": "py3",
+        "requires_python": ">=3.10",
+        "size": 3506711,
+        "upload_time": "2026-06-15T23:34:11",
+        "upload_time_iso_8601": "2026-06-15T23:34:11.926957Z",
+        "url": "https://files.pythonhosted.org/packages/ba/ad/4a411b8d5d440150f2f8db6bd5ba50320e55326fbddfefe691504050bd7e/napari-0.7.1-py3-none-any.whl",
+        "yanked": false,
+        "yanked_reason": null
+      },
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "2e1999ca52b3435cccb8426a3a9f3c20ae3d10e36b495d0e9ab8f3714bd5c866",
+          "md5": "c3558a2081ebd28f0b4ff4c0827e6774",
+          "sha256": "275a74dfa4a1a55a350f7ba9c40d7bf4216d3ce463ebb204e9bdaa561e3da874"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1.tar.gz",
+        "has_sig": false,
+        "md5_digest": "c3558a2081ebd28f0b4ff4c0827e6774",
+        "packagetype": "sdist",
+        "python_version": "source",
+        "requires_python": ">=3.10",
+        "size": 3122569,
+        "upload_time": "2026-06-15T23:34:14",
+        "upload_time_iso_8601": "2026-06-15T23:34:14.329432Z",
+        "url": "https://files.pythonhosted.org/packages/2e/19/99ca52b3435cccb8426a3a9f3c20ae3d10e36b495d0e9ab8f3714bd5c866/napari-0.7.1.tar.gz",
+        "yanked": false,
+        "yanked_reason": null
+      }
+    ],
     "0.7.1a1": [
       {
         "comment_text": null,
@@ -10134,48 +10180,268 @@
         "yanked": false,
         "yanked_reason": null
       }
+    ],
+    "0.7.1rc1": [
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "83f5311044eae8ea150603dca3b02b4a89f15e0884d86982eaacc0d7ab41bb27",
+          "md5": "91aeb629f4e4c8fa407e6c1c062f6b47",
+          "sha256": "ec62c6f93e0a2bf7ad2ae7e56d5434b6b71f8eb05e6c1b534669191f6d73d0aa"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc1-py3-none-any.whl",
+        "has_sig": false,
+        "md5_digest": "91aeb629f4e4c8fa407e6c1c062f6b47",
+        "packagetype": "bdist_wheel",
+        "python_version": "py3",
+        "requires_python": ">=3.10",
+        "size": 3498239,
+        "upload_time": "2026-05-26T22:07:24",
+        "upload_time_iso_8601": "2026-05-26T22:07:24.158472Z",
+        "url": "https://files.pythonhosted.org/packages/83/f5/311044eae8ea150603dca3b02b4a89f15e0884d86982eaacc0d7ab41bb27/napari-0.7.1rc1-py3-none-any.whl",
+        "yanked": false,
+        "yanked_reason": null
+      },
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "5506fcb63593cead56989353a4925557cd6bc096cce6289ee8b0259d4a243cd2",
+          "md5": "e885a766f0d7b3eb3956615d4d95b3ca",
+          "sha256": "257133d324c5adfef674c1d92ef0a67fb38e3020cc6551903528addddc36e5f7"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc1.tar.gz",
+        "has_sig": false,
+        "md5_digest": "e885a766f0d7b3eb3956615d4d95b3ca",
+        "packagetype": "sdist",
+        "python_version": "source",
+        "requires_python": ">=3.10",
+        "size": 3115776,
+        "upload_time": "2026-05-26T22:07:26",
+        "upload_time_iso_8601": "2026-05-26T22:07:26.799138Z",
+        "url": "https://files.pythonhosted.org/packages/55/06/fcb63593cead56989353a4925557cd6bc096cce6289ee8b0259d4a243cd2/napari-0.7.1rc1.tar.gz",
+        "yanked": false,
+        "yanked_reason": null
+      }
+    ],
+    "0.7.1rc2": [
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "d93f8ac7c733b739cf1d32d1c3050919a27d0f1f8ef1e57c175f610754f6969f",
+          "md5": "4216a3627a20e7c5fcdbb646cda89810",
+          "sha256": "9ec250846b7aaae24e7a4d72fba002623535e0a447d528eaceadd71522f35e1e"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc2-py3-none-any.whl",
+        "has_sig": false,
+        "md5_digest": "4216a3627a20e7c5fcdbb646cda89810",
+        "packagetype": "bdist_wheel",
+        "python_version": "py3",
+        "requires_python": ">=3.10",
+        "size": 3498243,
+        "upload_time": "2026-05-29T10:29:21",
+        "upload_time_iso_8601": "2026-05-29T10:29:21.951433Z",
+        "url": "https://files.pythonhosted.org/packages/d9/3f/8ac7c733b739cf1d32d1c3050919a27d0f1f8ef1e57c175f610754f6969f/napari-0.7.1rc2-py3-none-any.whl",
+        "yanked": false,
+        "yanked_reason": null
+      },
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "3b455ceff3ba8cb3e9f37893e7befc6efab22e0e0b72172ff9561149aec4fd1e",
+          "md5": "516690ca028d7fce25cf3b3a982e8f5e",
+          "sha256": "925a63b4b0e399e028f3aa0bc54807266af02d30da640ba82654de4b8b723ae9"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc2.tar.gz",
+        "has_sig": false,
+        "md5_digest": "516690ca028d7fce25cf3b3a982e8f5e",
+        "packagetype": "sdist",
+        "python_version": "source",
+        "requires_python": ">=3.10",
+        "size": 3115577,
+        "upload_time": "2026-05-29T10:29:24",
+        "upload_time_iso_8601": "2026-05-29T10:29:24.253088Z",
+        "url": "https://files.pythonhosted.org/packages/3b/45/5ceff3ba8cb3e9f37893e7befc6efab22e0e0b72172ff9561149aec4fd1e/napari-0.7.1rc2.tar.gz",
+        "yanked": false,
+        "yanked_reason": null
+      }
+    ],
+    "0.7.1rc3": [
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "6a053baa8c4752ad299cc59c60aa396981a7ad00962e82d720b8faae039f40d9",
+          "md5": "414160f2dcf176c000348926e7c1e399",
+          "sha256": "62abdb2ec621a838bc12025640f2707b3c3e4a7c6298eb31734f568193435874"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc3-py3-none-any.whl",
+        "has_sig": false,
+        "md5_digest": "414160f2dcf176c000348926e7c1e399",
+        "packagetype": "bdist_wheel",
+        "python_version": "py3",
+        "requires_python": ">=3.10",
+        "size": 3506609,
+        "upload_time": "2026-06-09T08:02:00",
+        "upload_time_iso_8601": "2026-06-09T08:02:00.996826Z",
+        "url": "https://files.pythonhosted.org/packages/6a/05/3baa8c4752ad299cc59c60aa396981a7ad00962e82d720b8faae039f40d9/napari-0.7.1rc3-py3-none-any.whl",
+        "yanked": false,
+        "yanked_reason": null
+      },
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "edb87065cb41c822a87a3c58fded188a3d64d1e008458b8dc67e7052747ee686",
+          "md5": "958a829059377e79209718d6b8085de6",
+          "sha256": "694465c064759e9f4adf37d19b39831b9d2fa0556541359b3c0be598575300f2"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc3.tar.gz",
+        "has_sig": false,
+        "md5_digest": "958a829059377e79209718d6b8085de6",
+        "packagetype": "sdist",
+        "python_version": "source",
+        "requires_python": ">=3.10",
+        "size": 3122442,
+        "upload_time": "2026-06-09T08:02:04",
+        "upload_time_iso_8601": "2026-06-09T08:02:04.091705Z",
+        "url": "https://files.pythonhosted.org/packages/ed/b8/7065cb41c822a87a3c58fded188a3d64d1e008458b8dc67e7052747ee686/napari-0.7.1rc3.tar.gz",
+        "yanked": false,
+        "yanked_reason": null
+      }
+    ],
+    "0.7.1rc4": [
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "85ce0a9d52e6eb06672d90ecd6515816ac97d3929bb81c2eafa03e70e3abd23e",
+          "md5": "df4d40c68e79dd7b0f71b6000ef31125",
+          "sha256": "d7cda9dfcb04725a61e76a21469441b2ac7104608cf6b1d018b50d34b8b425ff"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc4-py3-none-any.whl",
+        "has_sig": false,
+        "md5_digest": "df4d40c68e79dd7b0f71b6000ef31125",
+        "packagetype": "bdist_wheel",
+        "python_version": "py3",
+        "requires_python": ">=3.10",
+        "size": 3506667,
+        "upload_time": "2026-06-09T22:48:01",
+        "upload_time_iso_8601": "2026-06-09T22:48:01.309148Z",
+        "url": "https://files.pythonhosted.org/packages/85/ce/0a9d52e6eb06672d90ecd6515816ac97d3929bb81c2eafa03e70e3abd23e/napari-0.7.1rc4-py3-none-any.whl",
+        "yanked": false,
+        "yanked_reason": null
+      },
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "a9a037fe047f540c3475ab94863caefc1054e3052a0a454ff697459e23c305b3",
+          "md5": "8791f558b294c4d36b67c51972cfb2a6",
+          "sha256": "c12b4cdbf4dcea942a8ae9a0e858c050e37bcda8a2a3c3c4149c94d1e34881bb"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc4.tar.gz",
+        "has_sig": false,
+        "md5_digest": "8791f558b294c4d36b67c51972cfb2a6",
+        "packagetype": "sdist",
+        "python_version": "source",
+        "requires_python": ">=3.10",
+        "size": 3122477,
+        "upload_time": "2026-06-09T22:48:04",
+        "upload_time_iso_8601": "2026-06-09T22:48:04.009683Z",
+        "url": "https://files.pythonhosted.org/packages/a9/a0/37fe047f540c3475ab94863caefc1054e3052a0a454ff697459e23c305b3/napari-0.7.1rc4.tar.gz",
+        "yanked": false,
+        "yanked_reason": null
+      }
+    ],
+    "0.7.1rc5": [
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "10181ecc296f420be7ef9a2f65e4273a0f54e4998e7e7cfd1db5c44a6a32f2b0",
+          "md5": "a09d5d1850a2bb50b33fdcf886c24554",
+          "sha256": "958f2e33d59e218a7ba1e6a54d0e706a93bb2fab052a5bb36216177086f07dfa"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc5-py3-none-any.whl",
+        "has_sig": false,
+        "md5_digest": "a09d5d1850a2bb50b33fdcf886c24554",
+        "packagetype": "bdist_wheel",
+        "python_version": "py3",
+        "requires_python": ">=3.10",
+        "size": 3506756,
+        "upload_time": "2026-06-12T20:49:04",
+        "upload_time_iso_8601": "2026-06-12T20:49:04.421247Z",
+        "url": "https://files.pythonhosted.org/packages/10/18/1ecc296f420be7ef9a2f65e4273a0f54e4998e7e7cfd1db5c44a6a32f2b0/napari-0.7.1rc5-py3-none-any.whl",
+        "yanked": false,
+        "yanked_reason": null
+      },
+      {
+        "comment_text": null,
+        "digests": {
+          "blake2b_256": "6a6826d3e5ae5f6250e8cffaa7848bcbeaeb3ef3c9b51abcc2f25099751f3437",
+          "md5": "f5fbf03602ee968f9b8af8f64abeefd3",
+          "sha256": "b7b4f395176e401a72f8d8e47022300cca42290e46275dea2eee43e37b25e13a"
+        },
+        "downloads": -1,
+        "filename": "napari-0.7.1rc5.tar.gz",
+        "has_sig": false,
+        "md5_digest": "f5fbf03602ee968f9b8af8f64abeefd3",
+        "packagetype": "sdist",
+        "python_version": "source",
+        "requires_python": ">=3.10",
+        "size": 3122751,
+        "upload_time": "2026-06-12T20:49:06",
+        "upload_time_iso_8601": "2026-06-12T20:49:06.468793Z",
+        "url": "https://files.pythonhosted.org/packages/6a/68/26d3e5ae5f6250e8cffaa7848bcbeaeb3ef3c9b51abcc2f25099751f3437/napari-0.7.1rc5.tar.gz",
+        "yanked": false,
+        "yanked_reason": null
+      }
     ]
   },
   "urls": [
     {
       "comment_text": null,
       "digests": {
-        "blake2b_256": "9f2bcfea6788fd6963f7c5f07420dbd3f418821007f75072178edfa595a3154a",
-        "md5": "a184f28f9d93a6b71c70185657635d8c",
-        "sha256": "026da90683f1f9ebb7b9f19e6ee146ac2d9b3328b3bc691ae7da821d829150fb"
+        "blake2b_256": "baad4a411b8d5d440150f2f8db6bd5ba50320e55326fbddfefe691504050bd7e",
+        "md5": "6b38d1f125a769d90301c0388241be46",
+        "sha256": "c03090fa45f2b62f9d7d7acd1696c020d8b72abba6b036dbb0b6a80d9fc4bee0"
       },
       "downloads": -1,
-      "filename": "napari-0.7.0-py3-none-any.whl",
+      "filename": "napari-0.7.1-py3-none-any.whl",
       "has_sig": false,
-      "md5_digest": "a184f28f9d93a6b71c70185657635d8c",
+      "md5_digest": "6b38d1f125a769d90301c0388241be46",
       "packagetype": "bdist_wheel",
       "python_version": "py3",
       "requires_python": ">=3.10",
-      "size": 3490107,
-      "upload_time": "2026-03-23T10:33:07",
-      "upload_time_iso_8601": "2026-03-23T10:33:07.081774Z",
-      "url": "https://files.pythonhosted.org/packages/9f/2b/cfea6788fd6963f7c5f07420dbd3f418821007f75072178edfa595a3154a/napari-0.7.0-py3-none-any.whl",
+      "size": 3506711,
+      "upload_time": "2026-06-15T23:34:11",
+      "upload_time_iso_8601": "2026-06-15T23:34:11.926957Z",
+      "url": "https://files.pythonhosted.org/packages/ba/ad/4a411b8d5d440150f2f8db6bd5ba50320e55326fbddfefe691504050bd7e/napari-0.7.1-py3-none-any.whl",
       "yanked": false,
       "yanked_reason": null
     },
     {
       "comment_text": null,
       "digests": {
-        "blake2b_256": "7f1f185a10b1fc28a4031a7dcdc3dc0330e13d3e611032f123018fa629f6a4be",
-        "md5": "4ecebb2513d54bb402e06f2c8b6f0974",
-        "sha256": "9b36ee73bb3d56f34dd4c6486cc331ac5411d5f13f8bd2bc073ce177c48899b7"
+        "blake2b_256": "2e1999ca52b3435cccb8426a3a9f3c20ae3d10e36b495d0e9ab8f3714bd5c866",
+        "md5": "c3558a2081ebd28f0b4ff4c0827e6774",
+        "sha256": "275a74dfa4a1a55a350f7ba9c40d7bf4216d3ce463ebb204e9bdaa561e3da874"
       },
       "downloads": -1,
-      "filename": "napari-0.7.0.tar.gz",
+      "filename": "napari-0.7.1.tar.gz",
       "has_sig": false,
-      "md5_digest": "4ecebb2513d54bb402e06f2c8b6f0974",
+      "md5_digest": "c3558a2081ebd28f0b4ff4c0827e6774",
       "packagetype": "sdist",
       "python_version": "source",
       "requires_python": ">=3.10",
-      "size": 3103623,
-      "upload_time": "2026-03-23T10:33:09",
-      "upload_time_iso_8601": "2026-03-23T10:33:09.427595Z",
-      "url": "https://files.pythonhosted.org/packages/7f/1f/185a10b1fc28a4031a7dcdc3dc0330e13d3e611032f123018fa629f6a4be/napari-0.7.0.tar.gz",
+      "size": 3122569,
+      "upload_time": "2026-06-15T23:34:14",
+      "upload_time_iso_8601": "2026-06-15T23:34:14.329432Z",
+      "url": "https://files.pythonhosted.org/packages/2e/19/99ca52b3435cccb8426a3a9f3c20ae3d10e36b495d0e9ab8f3714bd5c866/napari-0.7.1.tar.gz",
       "yanked": false,
       "yanked_reason": null
     }

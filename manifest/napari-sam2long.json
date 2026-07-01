@@ -2,7 +2,7 @@
   "name": "napari-sam2long",
   "display_name": "SAM2Long",
   "visibility": "public",
-  "icon": "",
+  "icon": null,
   "categories": [
     "Annotation",
     "Segmentation"
