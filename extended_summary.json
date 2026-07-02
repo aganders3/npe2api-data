@@ -13677,7 +13677,7 @@
   {
     "normalized_name": "napari-spatialdata",
     "name": "napari-spatialdata",
-    "version": "0.7.1",
+    "version": "0.7.2",
     "display_name": "napari spatialdata",
     "summary": "Interactive visualization of spatial omics data with napari",
     "author": "giovanni palla",
@@ -13690,6 +13690,7 @@
       "User Support, https://github.com/scverse/napari-spatialdata/issues"
     ],
     "pypi_versions": [
+      "0.7.2",
       "0.7.1",
       "0.7.0",
       "0.6.0",
