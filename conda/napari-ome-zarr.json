@@ -55,7 +55,7 @@
     "pyhd8ed1ab_0",
     "pyhd8ed1ab_2"
   ],
-  "ndownloads": 18105,
+  "ndownloads": 18131,
   "releases": [
     {
       "version": "0.3.2",
@@ -537,7 +537,8 @@
         "license": "BSD-3-Clause",
         "noarch": "python",
         "platform": null,
-        "timestamp": 1783096833356
+        "timestamp": 1783096833356,
+        "constrains": []
       },
       "upload_time": "2026-07-03 16:42:02.253000+00:00",
       "md5": "15d2f0faff3349d6f4e93cd3af048b1c",
