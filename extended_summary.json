@@ -15479,7 +15479,7 @@
   {
     "normalized_name": "napari-vipp",
     "name": "napari-vipp",
-    "version": "0.8.3a1",
+    "version": "0.9.0a1",
     "display_name": "napari-vipp",
     "summary": "Visual image processing pipelines for napari",
     "author": "Rensu P. Theart",
@@ -15491,6 +15491,7 @@
       "Issues, https://github.com/rensutheart/napari-vipp/issues"
     ],
     "pypi_versions": [
+      "0.9.0a1",
       "0.8.3a1",
       "0.8.2a2",
       "0.8.2a1",
@@ -16299,6 +16300,26 @@
       "1.0.1",
       "1.0.0"
     ]
+  },
+  {
+    "normalized_name": "openuc2-processor",
+    "name": "openuc2-processor",
+    "version": "0.1.0",
+    "display_name": "openUC2 Processor",
+    "summary": "Download and process openUC2 / ImSwitch microscopy datasets in napari",
+    "author": "openUC2",
+    "license": "MIT",
+    "home_page": null,
+    "project_url": [
+      "Homepage, https://github.com/openUC2/napari-openuc2-processor",
+      "Bug Tracker, https://github.com/openUC2/napari-openuc2-processor/issues",
+      "Source Code, https://github.com/openUC2/napari-openuc2-processor",
+      "User Support, https://github.com/openUC2/napari-openuc2-processor/issues"
+    ],
+    "pypi_versions": [
+      "0.1.0"
+    ],
+    "conda_versions": []
   },
   {
     "normalized_name": "orchardseg",
