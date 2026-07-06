@@ -918,7 +918,7 @@
   {
     "normalized_name": "careamics-napari",
     "name": "careamics-napari",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "display_name": "CAREamics",
     "summary": "napari plugin providing an interface to CAREamics.",
     "author": null,
@@ -930,6 +930,7 @@
       "repository, https://github.com/CAREamics/careamics-napari"
     ],
     "pypi_versions": [
+      "0.3.0",
       "0.2.0",
       "0.1.0"
     ],
@@ -7549,7 +7550,7 @@
   {
     "normalized_name": "napari-harpy",
     "name": "napari-harpy",
-    "version": "0.0.13",
+    "version": "0.1.0",
     "display_name": "napari-harpy",
     "summary": "A spatial omics interface for napari.",
     "author": "VIB spatial catalyst",
@@ -7566,6 +7567,7 @@
       "VIBSpatialCatalyst, https://vib.be/en/technologies/technology-portfolio/spatial-catalyst"
     ],
     "pypi_versions": [
+      "0.1.0",
       "0.0.13",
       "0.0.12",
       "0.0.11",
@@ -10438,7 +10440,7 @@
   {
     "normalized_name": "napari-nninteractive",
     "name": "napari-nninteractive",
-    "version": "2.5.1",
+    "version": "2.5.2",
     "display_name": "nnInteractive",
     "summary": "nnInteractive plugin for Napari",
     "author": "Lars Kr\u00e4mer, Fabian Isensee, Maximilian Rokuss",
@@ -10449,6 +10451,7 @@
       "Code, https://github.com/MIC-DKFZ/napari-nninteractive"
     ],
     "pypi_versions": [
+      "2.5.2",
       "2.5.1",
       "2.5.0",
       "2.4.4",

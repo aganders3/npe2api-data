@@ -487,6 +487,7 @@
     "careamics-napari": {
       "name": "careamics-napari",
       "pypi_versions": [
+        "0.3.0",
         "0.2.0",
         "0.1.0"
       ]
@@ -3674,6 +3675,7 @@
     "napari-harpy": {
       "name": "napari-harpy",
       "pypi_versions": [
+        "0.1.0",
         "0.0.13",
         "0.0.12",
         "0.0.11",
@@ -4945,6 +4947,7 @@
     "napari-nninteractive": {
       "name": "napari-nninteractive",
       "pypi_versions": [
+        "2.5.2",
         "2.5.1",
         "2.5.0",
         "2.4.4",
