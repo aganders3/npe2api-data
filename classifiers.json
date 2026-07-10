@@ -816,6 +816,7 @@
     "empanada-napari": {
       "name": "empanada-napari",
       "pypi_versions": [
+        "1.2.4",
         "1.2.3",
         "1.2.2",
         "1.2.1",
